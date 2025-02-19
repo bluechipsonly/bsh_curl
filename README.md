@@ -18,5 +18,5 @@ chmod +x cur_path.sh
 ## Running the script
 ```sh
 # Script
-./curl_helper.sh https://example.com
+./cur_path.sh https://example.com
 ```
