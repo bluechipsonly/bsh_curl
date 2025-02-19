@@ -9,7 +9,7 @@ A simple bash script that i use to help automate my curl scans
 
 ## Installation:
 ```sh
-git clone https://github.com/iburr/bsh_curl.git
+git clone https://github.com/bluechipsonly/bsh_curl.git
 cd bsh_curl.git
 # Making the script executable via './'
 chmod +x cur_path.sh
